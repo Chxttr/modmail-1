@@ -1,5 +1,5 @@
 # Bot's token
-token = ""
+token = "NTc4NjY5ODEwMzc2OTAwNjM0.XN2-QQ.ZgjUQLjlIPLXSHUpIa32WhDa0MY"
 
 # DiscordBotList token
 dbl_token = ""
@@ -53,7 +53,7 @@ activity = f"DM to Contact Staff | {default_prefix}help"
 fetch_all_members = True
 
 # The main bot owner
-owner = 000000000000000000
+owner = 145672454487015424
 
 # Bot owners that have access to owner commands
 owners = []
